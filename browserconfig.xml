@@ -1,0 +1,19 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+
+- < browserconfig >
+
+
+- < ứng dụng >
+
+
+- < gạch >
+
+< square150x150logo  src = " https://w.ladicdn.com/s250x250/5edf0c737bb097706d227135/mstile-150x150-20210412154005.png " />
+
+< TileColor > # da532c </ TileColor >
+
+</ ngói >
+
+</ msapplication >
+
+</ browserconfig >
